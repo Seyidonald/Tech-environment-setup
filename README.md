@@ -1,39 +1,72 @@
 # MINI-PROJECT
 
-This project lnvolves setting up basic environment to be used in a DevOps mini-project.
+### Tech Environment Setup
 
-1. VISUAL STUDIO CODE
+This project involves setting up basic environments for a DevOps mini-project.
 
-![](./img/1.%20Visual%20studio%20code%20download%20link.png)
+## Tools Installed
 
-![](./img/2.%20Visual%20studio%20code.png)
+### VISUAL STUDIO CODE
 
-2. GIT HUB ACCOUNT
-   ![](./img/3.%20git%20url.png)
+   <P img-align="center"> 
+   <img src="./img/1. Visual studio code download link.png" height="100%" width="100%" alt="vscode">
+   </P>
 
-![Installed git on a pc](./img/4.%20git%20installed%20on%20windows%20pc.png)
+   <P img-align="center">
+   <img src="./img/2. Visual studio code.png" height="100%" width="100%" alt="vscode">
+   </P>
 
-3. VIRTUAL BOX
+#### GIT & GIT GUI
 
-![](./img/virtual%20box%20download.png)
+ <P img-align="center">
+   <img src="./img/3. git url.png" height="100%" width="100%" alt="vscode">
+   </P>
 
-![](./img/virtual%20box%20interface.png)
+ <P img-align="center">
+ <img src="./img/4. git installed on windows pc.png" height="100%" width="100%" alt="vscode">
+ </P>
 
-4. UBUNTU
+#### VIRTUAL BOX & VIRTUAL BOX UBUNTU
 
-![](./img/7.%20Ubuntu%20Url.png)
+<P img-align="center">
+<img src="./img/virtual box download.png" height="100%" width="100%" alt="vscode" >
+</P>
 
-![](./img/ubuntu%20login.png)
+<P img-align="center"> 
+<img src="./img/virtual box interface.png" height="100%" width="100%" alt="vscode">
+</P>
 
-5. GIT HUB
-![](./img/Git%20hub%20g.png)
+#### UBUNTU & UBUNTU URL
 
-![](./img/git%20hub%20in.png)
+  <P img-align="center" > 
+  <img src="./img/7. Ubuntu Url.png" height="100%" width="100%" alt="vscode">
+  </P>
 
-6. AMAZON WEB SERVICES ACCOUNT(AWS)
+   <P img-align="center">
+   <img src="./img/ubuntu login.png" height="100%" width="100%" alt="vscode"></P>
 
-![](./img/9.%20Creating%20AWS%20account.png)
+## ACCOUNTS CREATED
 
-![](./img/AWS%201.png)
+#### GIT HUB & GIT HUB ACCOUNT
 
-![](./img/AWS%20console.png)
+   <P img-align="center"> 
+   <img src="./img/Git hub g.png" height="100%" width="100%" alt="git">
+   </P>
+
+   <P img-align="center">
+   <img src="./img/git hub in.png"height="100%" width="100%" alt="git">
+   </P>
+
+#### AMAZON WEB SERVICES & AWS ACCOUNT
+
+   <P img-align="center">
+   <img src="./img/AWS 1.png" height="100%" width="100%" alt="aws">
+   </P>
+
+   <P img-align="center">
+   <img src="./img/9. Creating AWS account.png" height="100%" width="100%" alt="aws">
+   </P>
+
+   <P img-align="center" >
+   <img src="./img/AWS console.png" height="100%" width="100%" alt="aws">
+   </P>
