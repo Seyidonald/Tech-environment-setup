@@ -1,81 +1,39 @@
-# Tech-environment-setup
+# MINI-PROJECT
 
-This project lnvolves setting up basic environment to be used in DevOps mini-project,
-Different tools and accounts will be used and created.
+This project lnvolves setting up basic environment to be used in a DevOps mini-project.
 
-## The tools include
-- **Visual Studio Code**
-- **Git**
-- **Visual box**
-- **ubuntu on Virtual Box (Windows)**
+1. VISUAL STUDIO CODE
 
-## Accounts to be created includes
-- **Git hub account**
-- **Amazon web services(AWS) account**
+![](./img/1.%20Visual%20studio%20code%20download%20link.png)
 
-<p></p>
-- Visual Studio Code is a microsoft integrated development environment that allows multiple programming languages, possess good intellisense, version control, extensions, customization and debugging tools.
+![](./img/2.%20Visual%20studio%20code.png)
 
-1. <p></p>
-![A Visual studio code ready to download interface](./img/1.%20vsCode%20url%20screenshot.png)
-
-2. <p></p>
-
-![A downloaded visual studio code image](./img/2.%20Downloaded%20VsCode.png)
-
-<p></p>
-
-- Git is a version control system that helps developers manage changes to their code over time. It allows multiple people to collaborate on projects, keeps track of changes, and helps with code deployment.
-1. <p></p>
-![The git download url](./img/3.%20git%20url.png)
-
-2. <p></p>
-
+2. GIT HUB ACCOUNT
+   ![](./img/3.%20git%20url.png)
 
 ![Installed git on a pc](./img/4.%20git%20installed%20on%20windows%20pc.png)
 
+3. VIRTUAL BOX
 
-<p></p>
-- VirtualBox is a free and open-source virtualization software developed by Oracle. It allows you to run multiple operating systems on your computer simultaneously.
+![](./img/virtual%20box%20download.png)
 
-1.
-<p></p>
+![](./img/virtual%20box%20interface.png)
 
-![A virtual box url](./img/5.%20Virtual%20box%20url.png)
+4. UBUNTU
 
-2.
-<p></p>
+![](./img/7.%20Ubuntu%20Url.png)
 
-![A downloaded virtual box](./img/6.%20Installed%20Oracle%20virtual%20box%20manager.png)
+![](./img/ubuntu%20login.png)
 
-<p></p>
+5. GIT HUB
+![](./img/Git%20hub%20g.png)
 
-- ubuntu on Virtual Box (Windows) allows you to utilize the features and capabilities of the Ubuntu operating system in a virtualized environment. 
-1.
-<p></p>
+![](./img/git%20hub%20in.png)
 
-![A virtual box environment setup for ubuntu](./img/7.%20Ubuntu%20Url.png)
+6. AMAZON WEB SERVICES ACCOUNT(AWS)
 
+![](./img/9.%20Creating%20AWS%20account.png)
 
+![](./img/AWS%201.png)
 
-## Accounts to be created includes
-- Git hub account
-1.
-<p></p>
-
-![A git hub repository account](./img/8.%20Active%20git%20hub%20account.png)
-
-
-
-- Amazon web services(AWS) account
-
-1.
-<p></p>
-
-![AWS url](./img/9.%20Creating%20AWS%20account.png)
-
-
-2.
-<p></p>
-
-![A completed AWS registered account](./img/10.%20AWS%20account%20registration%20completed.png)
+![](./img/AWS%20console.png)
